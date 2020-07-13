@@ -1,8 +1,8 @@
 
-	🔭 I’m currently working on Enterprise Softwares
+🔭 I’m currently working on Enterprise Softwares
 
-	🌱 Software Engineer At @Dekopasaj
+🌱 Software Engineer At @Dekopasaj
 	
-	😄 From : Istanbul / Turkey
+😄 From : Istanbul / Turkey
 	
-	⚡ Senior Year At Pamukkale University
+⚡ Senior Year At Pamukkale University
