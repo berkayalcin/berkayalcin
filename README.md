@@ -1,9 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Berkay YALÇIN</h1>  
 <h3 align="center">A passionate enterprise softwares</h3>  
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=berkayalcin&label=Profile%20views&color=0e75b6&style=flat" alt="berkayalcin" /> </p>  
-  
+    
 - 🔭 Software Engineer At **@Trendyol**  
   
 - 🏫 Senior Year At **Pamukkale University**  
