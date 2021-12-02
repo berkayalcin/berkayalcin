@@ -9,9 +9,7 @@
 <a href="https://twitter.com/yalcinberkay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yalcinberkay" height="30" width="40" /></a>  
 <a href="https://linkedin.com/in/yalcinberkay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yalcinberkay" height="30" width="40" /></a>  
 <a href="https://kaggle.com/yalcinberkay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="yalcinberkay" height="30" width="40" /></a>  
-<a href="https://instagram.com/berkayalcin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="berkayalcin" height="30" width="40" /></a>  
 <a href="https://medium.com/@byalcin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@byalcin" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/yalcinberkay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="yalcinberkay" height="30" width="40" /></a>  
 </p>  
   
 <h3 align="center">Languages and Tools:</h3>  
