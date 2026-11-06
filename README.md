@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Berkay YALÇIN</h1>  
-<h3 align="center">A software Engineer At @Scout24</h3>  
+<h3 align="center">A software Engineer At @Yapıkredi</h3>  
   
   
 <h3 align="center">Connect with me:</h3>  
